@@ -1,0 +1,10 @@
+{
+  "name":"cordova-plugin-rhmap-ios-tls",
+  "version":"0.1.3",
+  "author":"Keyang Xiang<keyang.xiang@gmail.com>",
+  "description":"cordova plugin for rhmap apps to fix ios tls 1.2 of rhmap cloud",
+  "keywords":[
+    "ecosystem:cordova"
+  ],
+  "license":"MIT"
+}
